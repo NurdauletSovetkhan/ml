@@ -1,0 +1,13 @@
+patient_id,age,ward,length_of_stay,over_60
+P001,72,ICU,9.0,True
+P002,45,Cardiology,4.0,False
+P003,60,Neurology,7.0,False
+P004,33,Surgery,6.5,False
+P005,81,ICU,12.0,True
+P006,55,Cardiology,5.0,False
+P007,67,Neurology,8.0,True
+P008,29,Surgery,3.0,False
+P009,74,ICU,6.5,True
+P010,50,Cardiology,6.0,False
+P011,63,Neurology,7.0,True
+P012,38,Surgery,4.0,False

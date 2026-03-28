@@ -1,0 +1,13 @@
+email_id,sender_domain,subject_len,num_links,num_exclamations,contains_offer,label
+E001,shopnow.com,58,4,3,1,spam
+E002,university.edu,42,0,0,0,ham
+E003,fastcash.net,65,5,4,1,spam
+E004,company.kz,37,1,0,0,ham
+E005,lottery-win.org,71,6,5,1,spam
+E006,bank-alert.com,49,2,1,0,ham
+E007,promo-deals.io,62,4,3,1,spam
+E008,familymail.com,28,0,0,0,ham
+E009,travel-offer.co,55,3,2,1,spam
+E010,newsletters.ai,33,1,0,0,ham
+E011,quickloan.biz,68,5,4,1,spam
+E012,workmail.org,40,0,0,0,ham

@@ -1,0 +1,16 @@
+patient_id,age,ward,length_of_stay
+P001,72,ICU,9
+P002,45,Cardiology,4
+P003,60,Neurology,7
+P004,33,Surgery,
+P005,81,ICU,12
+P006,55,Cardiology,5
+P006,55,Cardiology,5
+P007,67,Neurology,8
+P008,29,Surgery,3
+P009,74,ICU,
+P010,50,Cardiology,6
+P011,63,Neurology,7
+P012,38,Surgery,4
+P005,81,ICU,12
+P010,50,Cardiology,6

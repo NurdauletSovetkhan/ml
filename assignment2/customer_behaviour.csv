@@ -1,0 +1,13 @@
+customer_id,age,monthly_spend,visits_per_month,avg_session_min,purchase_frequency,preferred_channel,city_segment
+C001,22,120,8,14,2,mobile,urban
+C002,35,260,5,19,3,web,urban
+C003,29,180,7,17,2,mobile,suburban
+C004,41,320,4,22,4,web,urban
+C005,33,210,6,16,3,mobile,suburban
+C006,27,95,9,12,1,mobile,urban
+C007,46,410,3,24,5,web,urban
+C008,31,170,6,15,2,store,suburban
+C009,38,290,5,20,3,web,urban
+C010,24,130,8,13,2,mobile,suburban
+C011,52,450,2,26,5,store,urban
+C012,30,200,7,18,3,web,suburban
